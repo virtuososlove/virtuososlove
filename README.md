@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am currently an active Computer Engineering student. On the side, I am developing game projects using Unity to improve myself.
+"I am currently an active Computer Engineering student. Besides, I am developing game projects using Unity to improve myself.
 
 
 ## 🌐 Socials:
